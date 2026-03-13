@@ -64,5 +64,12 @@ Preciso: reglas claras y confiables.
 
 Escalable: arquitectura modular lista para crecer.
 
+## Taller de Python
+Archivo: `taller.py`
+- Login con intentos limitados
+- Captura y manipulación de listas (`pop()`, `index()`)
+- Cálculo de promedio y clasificación
+
+
 👨‍💻 Autor
 Camilo – Desarrollador frontend senior con enfoque en dashboards modulares, integración backend y arquitectura escalable.
